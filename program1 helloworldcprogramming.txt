@@ -1,0 +1,22 @@
+.PROGRAM FOR HELLO WORLD USING NEW LINE AND TAB CHARACTER
+
+#include<stdio.h>
+int main()
+{
+printf("Hello World");
+return 0;
+}
+
+#include<stdio.h>
+int main()
+{
+printf("Hello world \n Hello world");
+return 0;
+}
+
+#include<stdio.h>
+int main()
+{
+printf("Hello world \t Hello world);
+return 0;
+}
