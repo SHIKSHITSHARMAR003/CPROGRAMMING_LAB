@@ -1,0 +1,20 @@
+. 2.1.> Program for Airthematic Operators like modulus , Addition, Subtraction and Multiplication
+
+#include<stdio.h>
+int main()
+{
+int a,b;
+printf("Enter value of a:");
+scanf("%d",&a);
+printf("Enter values of b:");
+scanf("%d",&b);
+int c=a+b;
+int d=c-b;
+inte=d*c;
+intf=e%d;
+printf("\nAddition of:%d",c);
+printf("\nMultiplication of:%d",e);
+printf("\nDifference of:%d",d);
+printf("\nModulus of:%d",f);
+return 0;
+}
